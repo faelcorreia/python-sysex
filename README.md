@@ -1,3 +1,3 @@
 # python-xps10
 
-Library to control XPS-10 using System Exclusive Messages (SysEx).
+Library to control Roland XPS-10 synthesizer using System Exclusive Messages (SysEx).
