@@ -1,0 +1,72 @@
+{
+    "id": "41",
+    "device_id": "10",
+    "model_id": "00003A",
+    "command_id": "12",
+    "addresses": {
+        "PATCH_COMMON": {
+            "address": "1F000000",
+            "possible_values": ""
+        },
+        "PATCH_COMMON_MFX": {
+            "address": "1F000200",
+            "possible_values": ""
+        },
+        "PATCH_COMMON_CHORUS": {
+            "address": "1F000400",
+            "possible_values": ""
+        },
+        "PATCH_COMMON_REVERB": {
+            "address": "1F000600",
+            "possible_values": ""
+        },
+        "PATCH_COMMON_MONO_POLY": {
+            "address": "1F000016",
+            "possible_values": ""
+        },
+        "PATCH_TMT": {
+            "address": "1F001000",
+            "possible_values": ""
+        },
+        "PATCH_TONE_1": {
+            "address": "1F002000",
+            "possible_values": ""
+        },
+        "PATCH_TONE_2": {
+            "address": "1F002200",
+            "possible_values": ""
+        },
+        "PATCH_TONE_3": {
+            "address": "1F002400",
+            "possible_values": ""
+        },
+        "PATCH_TONE_4": {
+            "address": "1F002600",
+            "possible_values": ""
+        },
+        "PATCH_TONE_1_TVA_LEVEL_VELOCITY_SENS": {
+            "address": "1F002062",
+            "possible_values": ""
+        },
+        "PATCH_SWITCH_TONE_1": {
+            "address": "1F001005",
+            "possible_values": ""
+        },
+        "PATCH_SWITCH_TONE_2": {
+            "address": "1F00100E",
+            "possible_values": ""
+        },
+        "PATCH_SWITCH_TONE_3": {
+            "address": "1F001017",
+            "possible_values": ""
+        },
+        "PATCH_SWITCH_TONE_4": {
+            "address": "1F001020",
+            "possible_values": ""
+        },
+        "PATCH_WAVE_NUMBER_L": {
+            "address": "1F00202C",
+            "possible_values": ""
+        }
+    }
+}
